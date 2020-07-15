@@ -21,7 +21,7 @@
 
 
 ### Pursuing B.Tech(C.S.E) final year at Lovely Professional University.
-* Google knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
+* Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
 * Just trying to used the Humans with the data they generating in day to day life. Yes, I'm passionate about **Data Science📈**
 * Consuming a lot of Reddit, Twitter content for better life.
 * Tableau Certified - [view certificate](https://verify.skilljar.com/c/ct5qhpm9fqyc)
@@ -34,3 +34,5 @@
 <a href="https://medium.com/@maheshthedev">
   <img src="https://miro.medium.com/max/968/1*F6SrJR7_s95r6oCF3ugMZw.png" alt="Mahesh Sv's Medium Profile" height="30" width="100">
 </a>
+
+### My Recent Projects are below

@@ -1,4 +1,4 @@
-### Hi there, I'm S v Mahesh Reddy👋
+## Hi there, I'm S v Mahesh Reddy👋
 <br />
 <a href="https://twitter.com/maheshthedev">
   <img align="left" alt="Mahesh Sv| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,11 +15,12 @@
 <a href="https://www.reddit.com/maheshthedev/">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=maheshthedev.maheshthedev)
+
+
 <br />
 
 
-* Pursuing B.Tech final year at Lovely Professional University.
+### Pursuing B.Tech final year at Lovely Professional University.
 * Google knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
 * Just trying to used the Humans with the data they generating in day to day life. Yes, I'm passionate about **Data Science📈**
 * Consuming a lot of Reddit, Twitter content for better life.

@@ -32,5 +32,5 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mahesh Sv's DEV Profile" height="30" width="30">
 </a> 
 <a href="https://medium.com/@maheshthedev">
-  <img src="https://miro.medium.com/max/3150/1*6_fgYnisCa9V21mymySIvA.png" alt="Mahesh Sv's Medium Profile" height="30" width="30">
+  <img src="https://miro.medium.com/max/968/1*F6SrJR7_s95r6oCF3ugMZw.png" alt="Mahesh Sv's Medium Profile" height="30" width="100">
 </a>

@@ -1,4 +1,3 @@
-## Hi there, I'm S v Mahesh Reddy👋
 <br />
 <a href="https://twitter.com/maheshthedev">
   <img align="left" alt="Mahesh Sv| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -24,7 +23,7 @@
 
 <br />
 
-
+## Hi there, I'm S v Mahesh Reddy👋
 ### Pursuing B.Tech(C.S.E) final year at Lovely Professional University.
 * Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
 * Just trying to used the Humans with the data they generating in day to day life. Yes, I'm passionate about **Data Science📈**

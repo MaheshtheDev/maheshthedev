@@ -11,7 +11,7 @@
 _**Connect with me:-**_
 <br />
 <a href="https://twitter.com/maheshthedev">
-  <img alt="Mahesh Sv| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Mahesh Sv| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/maheshthedev/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -31,7 +31,5 @@ _**Connect with me:-**_
 <a href="https://medium.com/@maheshthedev">
   <img align="left" alt="Medium" src="https://miro.medium.com/max/968/1*F6SrJR7_s95r6oCF3ugMZw.png" alt="Mahesh Sv's Medium Profile" width="75">
 </a>
-
 <br />
-
 ### My Recent Projects are below👇🏼

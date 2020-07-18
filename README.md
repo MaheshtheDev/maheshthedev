@@ -8,7 +8,6 @@
 * Open for Job opportunities in Data Science, Data Analysis, Data Vizualization, SDE.
 * I write blogs in my free time. you can find my blogs in [Dev.to](https://dev.to/maheshthedev), [Medium](https://medium.com/@maheshthedev)
 
-### _**Connect with me:-**_
 <br />
 <a href="https://twitter.com/maheshthedev">
   <img align="left" alt="Mahesh Sv| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -32,4 +31,5 @@
   <img align="left" alt="Medium" src="https://miro.medium.com/max/968/1*F6SrJR7_s95r6oCF3ugMZw.png" alt="Mahesh Sv's Medium Profile" width="75">
 </a>
 <br />
+
 ### My Recent Projects are below👇🏼

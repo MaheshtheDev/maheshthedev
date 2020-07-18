@@ -1,3 +1,14 @@
+
+## Hi there, I'm S v Mahesh Reddy👋
+### Pursuing B.Tech(C.S.E) final year at Lovely Professional University.
+* Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
+* Just trying to used the Humans with the data they generating in day to day life. Yes, I'm passionate about **Data Science📈**
+* Consuming a lot of Reddit, Twitter content for better life.
+* Tableau Certified - [view certificate](https://verify.skilljar.com/c/ct5qhpm9fqyc)
+* Open for Job opportunities in Data Science, Data Analysis, Data Vizualization, SDE.
+* I write blogs in my free time. you can find my blogs in [Dev.to](https://dev.to/maheshthedev), [Medium](https://medium.com/@maheshthedev)
+
+### Connect with me:-
 <br />
 <a href="https://twitter.com/maheshthedev">
   <img align="left" alt="Mahesh Sv| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -22,14 +33,5 @@
 </a>
 
 <br />
-
-## Hi there, I'm S v Mahesh Reddy👋
-### Pursuing B.Tech(C.S.E) final year at Lovely Professional University.
-* Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
-* Just trying to used the Humans with the data they generating in day to day life. Yes, I'm passionate about **Data Science📈**
-* Consuming a lot of Reddit, Twitter content for better life.
-* Tableau Certified - [view certificate](https://verify.skilljar.com/c/ct5qhpm9fqyc)
-* Open for Job opportunities in Data Science, Data Analysis, Data Vizualization, SDE.
-* I write blogs in my free time. you can find my blogs in [Dev.to](https://dev.to/maheshthedev), [Medium](https://medium.com/@maheshthedev)
 
 ### My Recent Projects are below👇🏼

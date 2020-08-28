@@ -1,6 +1,6 @@
 
 ## Hi there, I'm S v Mahesh Reddy👋
-### Pursuing B.Tech(C.S.E) final year at Lovely Professional University.
+### Pursuing B.Tech(C.S.E) final year at Lovely Professional University, India.
 * Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
 * Just trying to used the Humans with the data they generating in day to day life. Yes, I'm passionate about **Data Science📈**
 * Consuming a lot of Reddit, Twitter content for better life.

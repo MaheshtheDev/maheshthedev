@@ -2,6 +2,7 @@
 ## Hi there, I'm S v Mahesh Reddy👋
 ### Pursuing B.Tech(C.S.E) final year at Lovely Professional University, India.
 * Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
+* Working as Full Stack Developer Intern at Keka HR Payroll Software
 * Just trying to used the Humans with the data they generating in day to day life. Yes, I'm passionate about **Data Science📈**
 * Consuming a lot of Reddit, Twitter content for better life.
 * I write blogs in my free time. you can find my blogs in [Dev.to](https://dev.to/maheshthedev), [Medium](https://medium.com/@maheshthedev)

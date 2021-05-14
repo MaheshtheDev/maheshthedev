@@ -1,5 +1,5 @@
 
-## Hi there, I'm S v Mahesh Reddy👋
+## Hi there, I'm S v Mahesh Reddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Pursuing B.Tech(C.S.E) final year at Lovely Professional University, India.
 * Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
 * Working as Full Stack Developer Intern at Keka HR Payroll Software
@@ -31,4 +31,5 @@
 </a>
 <br />
 
-### My Recent Projects are below👇🏼
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

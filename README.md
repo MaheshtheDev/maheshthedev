@@ -9,25 +9,19 @@
 
 <br />
 <a href="https://twitter.com/maheshthedev">
-  <img align="left" alt="Mahesh Sv| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Mahesh Sv| Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/725/725311.svg?token=exp=1620982858~hmac=6077d2ec73b5b5197c5644f164704ece" />
 </a>
 <a href="https://www.linkedin.com/in/maheshthedev/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/maheshthedev">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/725/725337.svg?token=exp=1620982896~hmac=892e827273aff985df8601866f9f8c8e" />
 </a>
 <a href="https://www.instagram.com/maheshthedev/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/725/725278.svg?token=exp=1620983282~hmac=1ec137a63e1882411b59587dd0c00d82" />
 </a>
 <a href="https://www.reddit.com/user/MaheshtheDev">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Reddit" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504934.svg" />
 </a>
-<a href="https://dev.to/maheshthedev">
-  <img align="left" alt="Dev.to" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mahesh Sv's DEV Profile" width="22">
-</a> 
 <a href="https://medium.com/@maheshthedev">
-  <img align="left" alt="Medium" src="https://miro.medium.com/max/968/1*F6SrJR7_s95r6oCF3ugMZw.png" alt="Mahesh Sv's Medium Profile" width="75">
+  <img align="left" alt="Medium" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" alt="Mahesh Sv's Medium Profile" width="22px">
 </a>
 <br />
 

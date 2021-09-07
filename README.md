@@ -7,21 +7,6 @@
 * Consuming a lot of Reddit, Twitter content for better life.
 * I write blogs in my free time. you can find my blogs in [Dev.to](https://dev.to/maheshthedev), [Medium](https://medium.com/@maheshthedev)
 
-<br />
-<a href="https://twitter.com/maheshthedev">
-  <img align="left" alt="Mahesh Sv| Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/725/725311.svg?token=exp=1620982858~hmac=6077d2ec73b5b5197c5644f164704ece" />
-</a>
-<a href="https://www.linkedin.com/in/maheshthedev/">
-  <img align="left" alt="Linkedin" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/725/725337.svg?token=exp=1620982896~hmac=892e827273aff985df8601866f9f8c8e" />
-</a>
-<a href="https://www.reddit.com/user/MaheshtheDev">
-  <img align="left" alt="Reddit" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504934.svg" />
-</a>
-<a href="https://medium.com/@maheshthedev">
-  <img align="left" alt="Medium" src="https://www.flaticon.com/premium-icon/icons/svg/2504/2504925.svg" alt="Mahesh Sv's Medium Profile" width="22px">
-</a>
-<br />
-<br />
 
 
 ### 📕 **Latest Blog Posts**

@@ -11,6 +11,7 @@
 
 ### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Work-Personal Life Balancing?](https://maheshthedev.hashnode.dev/work-personal-life-balancing)
 - [Programming Case Types !Explained](https://maheshthedev.hashnode.dev/programming-case-types-explained)
 - [How to Learn Any Programming Language(2021)](https://maheshthedev.hashnode.dev/how-to-learn-any-programming-language2021)
 - [How to Secure API token](https://maheshthedev.hashnode.dev/how-to-secure-api-token)

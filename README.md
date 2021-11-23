@@ -1,6 +1,6 @@
 
 ## Hi there, I'm S v Mahesh Reddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### Pursuing B.Tech(C.S.E) final year at Lovely Professional University, India.
+### Working Full Stack Developer at KEKA HR.
 * Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
 * Working as Full Stack Developer Intern at Keka HR Payroll Software
 * Just trying to used the Humans with the data they generating in day to day life. Yes, I'm passionate about **Data Science📈**

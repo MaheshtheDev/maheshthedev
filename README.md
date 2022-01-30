@@ -1,11 +1,17 @@
 
+<a href="https://app.daily.dev/MaheshtheDev">
+  <img src="https://api.daily.dev/devcards/eea10c8533bf40dc95b8ffd970fda358.png?r=2rk" width="300" alt="Mahesh Sv's Dev Card" align="right"/>
+</a>
+
 ## Hi there, I'm S v Mahesh Reddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 ### Working Full Stack Developer at KEKA HR.
 * Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
 * Working as Full Stack Developer Intern at Keka HR Payroll Software
 * Just trying to used the Humans with the data they generating in day to day life. Yes, I'm passionate about **Data Science📈**
 * Consuming a lot of Reddit, Twitter content for better life.
 * I write blogs in my free time. you can find my blogs in [Dev.to](https://dev.to/maheshthedev), [Medium](https://medium.com/@maheshthedev)
+
 
 
 

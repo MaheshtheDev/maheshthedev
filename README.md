@@ -1,6 +1,6 @@
 
 <a href="https://app.daily.dev/MaheshtheDev">
-  <img src="https://api.daily.dev/devcards/eea10c8533bf40dc95b8ffd970fda358.png?r=2rk" width="300" alt="Mahesh Sv's Dev Card" align="right"/>
+  <img src="https://github.com/MaheshtheDev/maheshthedev/blob/master/devcard.svg" width="300" alt="Mahesh Reddy's Dev Card" align="right"/>
 </a>
 
 ## Hi there, I'm S v Mahesh Reddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">

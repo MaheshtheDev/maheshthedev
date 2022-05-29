@@ -7,8 +7,8 @@
 
 ### Working Full Stack Developer at KEKA HR.
 * Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
-* Working as Full Stack Developer at Keka HR Payroll Software from Past 2 years.
 * **A Dev on Mission**, Automating Non-creative jobs with w/ Web Tools.
+* Working as Full Stack Developer at Keka HR Payroll Software from Past 2 years.
 * Consuming a lot of Reddit, Twitter content for better life.
 * I write blogs in my free time. you can find my blogs in [Dev.to](https://dev.to/maheshthedev), [Medium](https://medium.com/@maheshthedev)
 

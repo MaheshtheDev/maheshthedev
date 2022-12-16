@@ -17,9 +17,9 @@
 
 ### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Resignation is Not Good, But Change is..](https://blog.maheshthedev.me/resignation-is-not-good-but-change-is)
 - [A Year at Product Based Company as Full Stack Dev](https://blog.maheshthedev.me/year-fullstackdev-keka)
 - [Web Dev&#39;s 2021 Rewind](https://blog.maheshthedev.me/web-devs-2021-rewind)
 - [Work-Personal Life Balancing?](https://blog.maheshthedev.me/work-personal-life-balancing)
 - [Programming Case Types !Explained](https://blog.maheshthedev.me/programming-case-types-explained)
-- [How to Learn Any Programming Language&lpar;2021&rpar;](https://blog.maheshthedev.me/how-to-learn-any-programming-language2021)
 <!-- BLOG-POST-LIST:END -->

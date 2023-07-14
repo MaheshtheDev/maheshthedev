@@ -5,7 +5,6 @@
 
 ## Hi there, I'm S v Mahesh Reddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Working Full Stack Developer at KEKA HR.
 * Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
 * **A Dev on Mission**, Automating Non-creative jobs with w/ Web Tools.
 * Consuming a lot of Reddit, Twitter content for better life.

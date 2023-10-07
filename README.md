@@ -1,8 +1,4 @@
 
-<a href="https://app.daily.dev/MaheshtheDev">
-  <img src="https://github.com/MaheshtheDev/maheshthedev/blob/master/devcard.svg" width="300" alt="Mahesh Reddy's Dev Card" align="right"/>
-</a>
-
 ## Hi there, I'm S v Mahesh Reddy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 * Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 

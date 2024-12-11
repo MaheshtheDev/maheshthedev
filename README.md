@@ -3,11 +3,6 @@
 
 * Internet🌏 knows me as [**MaheshtheDev**](https://www.google.com/search?q=maheshthedev). 
 * **A Dev on Mission**, Automating Non-creative jobs with w/ Web, Mobile Tools.
-* Consuming a lot of Reddit, Twitter content for better life.
-* I write blogs in my free time. you can find my blogs in [Dev.to](https://dev.to/maheshthedev), [Medium](https://medium.com/@maheshthedev)
-
-
-
 
 ### 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
